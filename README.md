@@ -1,0 +1,2 @@
+# ParamTrivedi
+Own portfolio website
